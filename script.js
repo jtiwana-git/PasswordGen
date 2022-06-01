@@ -6,12 +6,6 @@ var getNumber = ["0","1","2","3","4","5","6","7","8","9",];
 var getSpecialChar = ['"', "¬","!","£","$","=","%","^","&","*","(",")","_","+","[","]",";","'","#",",",".","/","\","|"",];
 var getArr = []; 
 
-// TEST
-console.log(getLower);
-console.log(getUpper);
-console.log(getNumber);
-console.log(getSpecialChar);
-
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
